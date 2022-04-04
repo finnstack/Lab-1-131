@@ -1,0 +1,39 @@
+---
+title: "PSTAT 131 HW 1"
+author: "Finn Stack"
+date: "4/3/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+
+```
+
+*Question 1:*
+Define supervised and unsupervised learning. What are the difference(s) between them?
+
+*Question 2:*
+Explain the difference between a regression model and a classification model, specifically in the context of machine learning.
+
+*Question 3:*
+Name two commonly used metrics for regression ML problems. Name two commonly used metrics for classification ML problems.
+
+*Question 4:*
+As discussed, statistical models can be used for different purposes. These purposes can generally be classified into the following three categories. Provide a brief description of each.
+
+Descriptive models:
+
+Inferential models:
+
+Predictive models:
+
